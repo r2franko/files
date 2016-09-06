@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>SUCURSALES</name>
+		<NetworkLink>
+			<name>Sucursales Pollo Pepe &amp; Zonas de Reparto</name>
+			<Link>
+				<href>http://www.google.com/maps/d/u/0/kml?forcekml=1&amp;mid=1GuSTTHq4Vt7fX_o--cL_S7ldfx8&amp;lid=z6UFF4N2P_IY.kAiNLYxruDns</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>
