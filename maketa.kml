@@ -1007,10 +1007,10 @@
 		</Folder>
 		<Style id='icon-503-DB4436-nodesc'>
 			<IconStyle>
-				<Icon>
-					<href>https://raw.githubusercontent.com/r2franko/files/master/logo-pollo.png</href>
-				</Icon>
-			</IconStyle>
+        			<Icon>
+        			 <href>http://maps.google.com/mapfiles/kml/pal4/icon28.png</href>
+        			</Icon>
+      			</IconStyle>
 			<BalloonStyle>
 				<text><![CDATA[<h3>$[name]</h3>]]></text>
 			</BalloonStyle>
