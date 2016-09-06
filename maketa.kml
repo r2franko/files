@@ -1010,6 +1010,9 @@
         			<Icon>
         			 <href>http://maps.google.com/mapfiles/kml/pal4/icon28.png</href>
         			</Icon>
+        		<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
       			</IconStyle>
 		
 		</Style>
