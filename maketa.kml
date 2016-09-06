@@ -1011,9 +1011,7 @@
         			 <href>http://maps.google.com/mapfiles/kml/pal4/icon28.png</href>
         			</Icon>
       			</IconStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
+		
 		</Style>
 		<Style id='poly-000000-0-61-nodesc-normal'>
 			<LineStyle>
