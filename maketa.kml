@@ -1007,12 +1007,9 @@
 		</Folder>
 		<Style id='icon-503-DB4436-nodesc'>
 			<IconStyle>
-				<scale>1.1</scale>
 				<Icon>
 					<href>https://raw.githubusercontent.com/r2franko/files/master/logo-pollo.png</href>
 				</Icon>
-				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
-				</hotSpot>
 			</IconStyle>
 			<BalloonStyle>
 				<text><![CDATA[<h3>$[name]</h3>]]></text>
