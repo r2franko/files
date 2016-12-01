@@ -39,7 +39,7 @@
 				<color>ff3644DB</color>
 				<scale>1.1</scale>
 				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+					<href>https://raw.githubusercontent.com/r2franko/files/master/logo-pollo.png</href>
 				</Icon>
 				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
 				</hotSpot>
