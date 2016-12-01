@@ -7,7 +7,16 @@
 			<name>SUCURSALES</name>
 			<Placemark>
 				<name>U39 - LOS CUBOS</name>
-				
+				<Style>
+				   <IconStyle>
+					<Icon>
+					  <href>http://maps.google.com/mapfiles/kml/pal3/icon19.png</href>
+					</Icon>
+				    </IconStyle>
+				    <LineStyle>
+					<width>2</width>
+				    </LineStyle>
+				 </Style>
 				<Point>
 					<coordinates>-103.41789349999999,20.6786316,0.0</coordinates>
 				</Point>
