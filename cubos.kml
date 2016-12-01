@@ -13,9 +13,6 @@
 					  <href>https://raw.githubusercontent.com/r2franko/files/master/logo-pollo2.png</href>
 					</Icon>
 				    </IconStyle>
-				    <LineStyle>
-					<width>2</width>
-				    </LineStyle>
 				 </Style>
 				<Point>
 					<coordinates>-103.41789349999999,20.6786316,0.0</coordinates>
