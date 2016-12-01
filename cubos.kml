@@ -5,19 +5,6 @@
 		<description><![CDATA[Ubicación de Sucursales Pollo Pepe & Zonas de Reparto en Servicio a Domicilio]]></description>
 		<Folder>
 			<name>SUCURSALES</name>
-			<Placemark>
-				<name>U39 - CUBOS</name>
-				<Style>
-				   <IconStyle>
-					<Icon>
-					  <href>https://raw.githubusercontent.com/r2franko/files/master/logo-pollo2.png</href>
-					</Icon>
-				    </IconStyle>
-				 </Style>
-				<Point>
-					<coordinates>-103.41789349999999,20.6786316,0.0</coordinates>
-				</Point>
-			</Placemark>
 		</Folder>
 		<Folder>
 			<name>ZONAS DE REPARTO</name>
