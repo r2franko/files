@@ -10,7 +10,7 @@
 			<name>ZONAS DE REPARTO</name>
 			<Placemark>
 				<name>U39 - CUBOS</name>
-				<styleUrl></styleUrl>
+				<styleUrl>#poly-009D57-0-66-nodesc</styleUrl>
 				<Polygon>
 					<outerBoundaryIs>
 						<LinearRing>
