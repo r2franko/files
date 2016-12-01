@@ -43,20 +43,6 @@
 		<Folder>
 			<name>Capa sin nombre</name>
 		</Folder>
-		<Style id='icon-503-DB4436-nodesc'>
-			<IconStyle>
-				<color>ff3644DB</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href></href>
-				</Icon>
-				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
-				</hotSpot>
-			</IconStyle>
-			<BalloonStyle>
-				<text><![CDATA[<h3>$[name]</h3>]]></text>
-			</BalloonStyle>
-		</Style>
 		<Style id='poly-000000-0-61-nodesc-normal'>
 			<LineStyle>
 				<color>ff000000</color>
