@@ -12,7 +12,7 @@
 					<coordinates>-103.41789349999999,20.6786316,0.0</coordinates>
 				</Point>
 			</Placemark>
-		<Folder>
+		</Folder>
 		<Folder>
 			<name>ZONAS DE REPARTO</name>
 			<Placemark>
@@ -29,7 +29,7 @@
 			</Placemark>			
 		</Folder>
 			
-		</Folder>
+	
 		<Folder>
 			<name>Capa sin nombre</name>
 		</Folder>
