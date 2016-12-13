@@ -16,8 +16,6 @@
 		</Folder>
 		<Folder>
 			<name>ZONAS DE REPARTO</name>
-			
-			
 			<Placemark>
 				<name>U39 - CUBOS</name>
 				<styleUrl>#poly-009D57-0-66-nodesc</styleUrl>
@@ -29,10 +27,7 @@
 						</LinearRing>
 					</outerBoundaryIs>
 				</Polygon>
-			</Placemark>
-			
-			
-			
+			</Placemark>			
 		</Folder>
 		<Folder>
 			<name>Capa sin nombre</name>
@@ -45,7 +40,7 @@
 				<color>ff3644DB</color>
 				<scale>1.1</scale>
 				<Icon>
-					<href>https://raw.githubusercontent.com/r2franko/files/master/PP.png</href>
+					<href>https://raw.githubusercontent.com/r2franko/files/master/logo-pollo2.png</href>
 				</Icon>
 				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
 				</hotSpot>
