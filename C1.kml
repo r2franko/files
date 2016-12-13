@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Sucursales Pollo Pepe &amp; Zonas de Reparto</name>
+		<description><![CDATA[Ubicación de Sucursales Pollo Pepe & Zonas de Reparto en Servicio a Domicilio]]></description>
+		<Folder>
+			<name>SUCURSALES</name>
+			<Placemark>
+				<name>U39 - LOS CUBOS</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-103.41789349999999,20.6786316,0.0</coordinates>
+				</Point>
+			</Placemark>
+			
+		</Folder>
+		<Folder>
+			<name>Capa sin nombre</name>
+		</Folder>
+		<Folder>
+			<name>Capa sin nombre</name>
+		</Folder>
+		<Style id='icon-503-DB4436-nodesc'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>https://raw.githubusercontent.com/r2franko/files/master/logo-pollo2.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-009D57-0-66-nodesc-normal'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>42579D00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-009D57-0-66-nodesc-highlight'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>0.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>42579D00</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-009D57-0-66-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-009D57-0-66-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-009D57-0-66-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		
+	</Document>
+</kml>
