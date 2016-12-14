@@ -5,13 +5,13 @@
 		<description><![CDATA[Ubicación de Sucursales Pollo Pepe & Zonas de Reparto en Servicio a Domicilio]]></description>
 		<Folder>
 			<name>SUCURSALES</name>
-			<Placemark>
+			<!-- <Placemark>
 				<name>U39 - LOS CUBOS</name>
 				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
 				<Point>
 					<coordinates>-103.41789349999999,20.6786316,0.0</coordinates>
 				</Point>
-			</Placemark>
+			</Placemark>-->
 		</Folder>
 		<Folder>
 			<name>ZONAS DE REPARTO</name>
