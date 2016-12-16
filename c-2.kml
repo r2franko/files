@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Sucursales Pollo Pepe &amp; Zonas de Reparto</name>
+		<description><![CDATA[Ubicación de Sucursales Pollo Pepe & Zonas de Reparto en Servicio a Domicilio]]></description>
+		<Folder>
+			<name>SUCURSALES</name>
+			<!-- <Placemark>
+				<name>U01 - CHAPALITA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-103.40742720000003,20.6611274,0.0</coordinates>
+				</Point>
+			</Placemark>-->
+		</Folder>
+		<Folder>
+			<name>ZONAS DE REPARTO</name>
+			<Placemark>
+				<name>U01 - CHAPALITA</name>
+				<styleUrl>#poly-4186F0-0-76-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-103.4057021,20.6468606,0.0 -103.39737650000001,20.659409800000002,0.0 -103.3939219,20.664670099999995,0.0 -103.4148002,20.676113600000004,0.0 -103.4150791,20.6745878,0.0 -103.4153795,20.671777199999998,0.0 -103.41555120000001,20.6703719,0.0 -103.4155083,20.667480800000003,0.0 -103.4161949,20.6637264,0.0 -103.4198427,20.6628631,0.0 -103.42913390000001,20.6613473,0.0 -103.4300351,20.6612218,0.0 -103.4307647,20.660915600000003,0.0 -103.431859,20.659500099999995,0.0 -103.4320521,20.656639,0.0 -103.4322453,20.6541894,0.0 -103.4326744,20.646840499999996,0.0 -103.4171176,20.6443707,0.0 -103.4155726,20.6408969,0.0 -103.4076548,20.6456759,0.0 -103.4057021,20.6468606,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>			
+		</Folder>
+			
+	
+		<Folder>
+			<name>Capa sin nombre</name>
+		</Folder>
+		<Folder>
+			<name>Capa sin nombre</name>
+		</Folder>
+		<Style id='icon-503-DB4436-nodesc'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>https://raw.githubusercontent.com/r2franko/files/master/PP.png</href>
+				</Icon>
+				<hotSpot x='50' y='50' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+			<Style id='poly-4186F0-0-76-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-4186F0-0-76-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>0.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-4186F0-0-76-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-4186F0-0-76-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-4186F0-0-76-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		
+	</Document>
+</kml>
