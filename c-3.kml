@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Sucursales Pollo Pepe &amp; Zonas de Reparto</name>
+		<description><![CDATA[Ubicación de Sucursales Pollo Pepe & Zonas de Reparto en Servicio a Domicilio]]></description>
+		<Folder>
+			<name>SUCURSALES</name>
+			<!-- <Placemark>
+				<name>U01 - CHAPALITA</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-103.40742720000003,20.6611274,0.0</coordinates>
+				</Point>
+			</Placemark>-->
+		</Folder>
+		<Folder>
+			<name>ZONAS DE REPARTO</name>
+			<Placemark>
+				<name>U19 - PLAZA LAS TORRES</name>
+					<styleUrl>#poly-4186F0-1-76-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>
+                -103.3540964,20.6433065,0
+                -103.3460712,20.6389692,0
+                -103.3426809,20.6368406,0
+                -103.3419085,20.6384069,0
+                -103.3409643,20.6393708,0
+                -103.3372307,20.6434671,0
+                -103.3448267,20.655354,0
+                -103.3461142,20.6542296,0
+                -103.3486462,20.6561973,0
+                -103.3511353,20.6573618,0
+                -103.3580017,20.6599719,0
+                -103.3565426,20.6632245,0
+                -103.3557701,20.665694,0
+                -103.3596325,20.6667782,0
+                -103.3649969,20.6668986,0
+                -103.3651257,20.6662361,0
+                -103.3664989,20.6629836,0
+                -103.3700824,20.6542898,0
+                -103.3714557,20.6538481,0
+                -103.372035,20.6534265,0
+                -103.372786,20.6524024,0
+                -103.374052,20.6507359,0
+                -103.3751249,20.6497119,0
+                -103.377099,20.6481457,0
+                -103.3800817,20.6466598,0
+                -103.3796096,20.6460775,0
+                -103.3781075,20.6447523,0
+                -103.3764982,20.6435274,0
+                -103.3751464,20.6431057,0
+                -103.3741379,20.6430655,0
+                -103.3735585,20.642925,0
+                -103.3731294,20.6426037,0
+                -103.3752108,20.6402744,0
+                -103.3762193,20.6390495,0
+                -103.3765411,20.638688,0
+                -103.3589458,20.6321416,0
+                -103.3540964,20.6433065,0
+              </coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>			
+		</Folder>
+			
+	
+		<Folder>
+			<name>Capa sin nombre</name>
+		</Folder>
+		<Folder>
+			<name>Capa sin nombre</name>
+		</Folder>
+		<Style id='icon-503-DB4436-nodesc'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<!-- <href>https://raw.githubusercontent.com/r2franko/files/master/PP.png</href>-->
+				</Icon>
+				<hotSpot x='50' y='50' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+			<Style id='poly-4186F0-0-76-nodesc-normal'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-4186F0-0-76-nodesc-highlight'>
+			<LineStyle>
+				<color>ffF08641</color>
+				<width>0.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4CF08641</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-4186F0-0-76-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-4186F0-0-76-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-4186F0-0-76-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		
+	</Document>
+</kml>
